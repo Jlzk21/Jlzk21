@@ -23,17 +23,17 @@ Im **Julius Biascan** also known as **jlzkdev**, and I'm a **currently CS Studen
 
 ### GitHub Highlights: :blossom:
 <a href="https://www.linkedin.com/in/juliusbiascan/">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jlzk21&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 <a href="https://www.linkedin.com/in/juliusbiascan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlzk21&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jlzk21&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 -----
-Credits: [carlcastanas](https://github.com/Jlzk21)
+Credits: [carlcastanas](https://github.com/carlcastanas)
 
 Last Edited on: 12/19/2021
 
