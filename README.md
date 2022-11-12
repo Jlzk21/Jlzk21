@@ -9,7 +9,7 @@ Im **Julius Biascan** also known as **jlzkdev**, and I'm a **currently CS Studen
 
 ### How to reach me: 
 <a href="mailto: juliusbiascan.bscs.pass@gmail.com">
-<img src="https://img.shields.io/badge/-juliusbiascan.bscs.pass@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/swaggy.julz/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a  href="https://jlzkdev.netlify.app/"><img src="https://img.shields.io/badge/jlzkdev.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-juliusbiascan.bscs.pass@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/swaggy.julz/">   <img src="https://img.shields.io/badge/@swaggy.julz-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a  href="https://jlzkdev.netlify.app/"><img src="https://img.shields.io/badge/jlzkdev.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
